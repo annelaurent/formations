@@ -539,6 +539,9 @@ Le [site du département informatique](https://depinfo.u-cergy.fr/) a des inform
     + [Parcours MSI](http://informatique-fds.edu.umontpellier.fr/parcours-mi-mathematique-informatique/) – Mathématiques et Science Informatique
     + [Parcours MIT](http://informatique-fds.edu.umontpellier.fr/parcours-mit-informatique-theorique/) – Informatique théorique
 - Master MEEF : préparation au CAPES de mathématiques option informatique
+- [Ecole d'ingénieur Polytech Montpellier](http://www.polytech-montpellier.fr/index.php/formation/informatique-et-gestion-ig/presentation) :
+	+ Option solutions d'entreprises
+	+ Option Internet des Objets
 
 ##### Université Paul-Valery Montpellier
 
